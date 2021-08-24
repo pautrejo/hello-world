@@ -1,4 +1,4 @@
 # hello-world
 First repository.
 
-Learning github listening to relaxing music for dogs.
+Learning GitHub while listening to relaxing music for dogs because it is raining.
